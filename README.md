@@ -1,10 +1,15 @@
 ### Hi there 👋, my name is Valerii
-#### I am Python Developer
 
+### :man_technologist: About Me :
+I am Python Developer from Ukraine :briefcase:
+- :telescope: Loren ipsum
 
+- :seedling: Loren ipsum
 
-- 🔭 I’m currently working on this page. 
+- :zap: Loren ipsum
 
+- :atom: Loren ipsum
 
-<img src="https://github.com/xterzxc/xterzxc/assets/115075983/8c50d6c5-1361-41f3-a3fb-1fea2d0140f2" align="center">
-
+<div align="center">
+  <img src="https://github.com/xterzxc/xterzxc/assets/115075983/8c50d6c5-1361-41f3-a3fb-1fea2d0140f2" align="center">
+</div>
