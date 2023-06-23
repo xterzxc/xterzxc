@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discord">
 </a>
 <a href="https://xterzxc.com/">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="website">
+  <img src="https://img.shields.io/badge/Website-FF8800?style=for-the-badge&logo=micro.blog&logoColor=white" alt="website">
 </a>
 </div>
 
