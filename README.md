@@ -3,14 +3,14 @@
   <h3 align="center"> Im Python Developer </h3>
 </div>
 <div id="socials" align="center">
-<a href="telegram">
+<a href="https://web.telegram.org/k/#@xterzxc">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram">
 </a>
-<a href="telegram">
+<a href="https://discord.gg/HZWRCpDHZU">
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discord">
 </a>
-<a href="telegram">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram">
+<a href="https://xterzxc.com/">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="website">
 </a>
 </div>
 
